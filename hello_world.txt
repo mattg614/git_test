@@ -1,0 +1,2 @@
+Testing out using GIT and GIT Hub version control
+So far going through Odin Project Lesson on GIT
